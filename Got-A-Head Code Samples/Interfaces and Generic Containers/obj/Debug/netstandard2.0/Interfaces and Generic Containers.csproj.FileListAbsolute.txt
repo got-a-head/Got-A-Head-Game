@@ -1,9 +1,0 @@
-C:\Users\USER\source\repos\Got-A-Head Code Samples\Interfaces and Generic Containers\bin\Debug\netstandard2.0\Interfaces and Generic Containers.deps.json
-C:\Users\USER\source\repos\Got-A-Head Code Samples\Interfaces and Generic Containers\bin\Debug\netstandard2.0\Interfaces and Generic Containers.dll
-C:\Users\USER\source\repos\Got-A-Head Code Samples\Interfaces and Generic Containers\bin\Debug\netstandard2.0\Interfaces and Generic Containers.pdb
-C:\Users\USER\source\repos\Got-A-Head Code Samples\Interfaces and Generic Containers\obj\Debug\netstandard2.0\Interfaces and Generic Containers.csproj.CoreCompileInputs.cache
-C:\Users\USER\source\repos\Got-A-Head Code Samples\Interfaces and Generic Containers\obj\Debug\netstandard2.0\Interfaces and Generic Containers.AssemblyInfoInputs.cache
-C:\Users\USER\source\repos\Got-A-Head Code Samples\Interfaces and Generic Containers\obj\Debug\netstandard2.0\Interfaces and Generic Containers.AssemblyInfo.cs
-C:\Users\USER\source\repos\Got-A-Head Code Samples\Interfaces and Generic Containers\obj\Debug\netstandard2.0\Interfaces and Generic Containers.dll
-C:\Users\USER\source\repos\Got-A-Head Code Samples\Interfaces and Generic Containers\obj\Debug\netstandard2.0\Interfaces and Generic Containers.pdb
-C:\Users\USER\source\repos\Got-A-Head Code Samples\Interfaces and Generic Containers\obj\Debug\netstandard2.0\Interfaces and Generic Containers.csprojAssemblyReference.cache
