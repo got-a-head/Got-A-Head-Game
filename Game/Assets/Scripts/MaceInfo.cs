@@ -6,8 +6,7 @@ using UnityEngine.UI;
 
 public class MaceInfo : MonoBehaviour
 {
-    public Text InfoText;
-    public float Timer;
+    public Text InfoTextM;
 
     // Start is called before the first frame update
     void Start()
@@ -25,8 +24,8 @@ public class MaceInfo : MonoBehaviour
 
         if (Input.GetMouseButtonDown(0))
         {
-            InfoText = GameObject.Find("TextBox").GetComponent<Text>();
-            InfoText.text = ("There are different definitions of mace. " +
+            InfoTextM = GameObject.Find("TextBox").GetComponent<Text>();
+            InfoTextM.text = ("There are different definitions of mace. " +
                 "In the game, it is a weapon that is a form of heavy club with a spiky head. " +
                 "A ceremonial mace is a highly decorated staff of wood or metal used in civic ceremonies to represent an official’s authority. " +
                 "Westminster, many universities and some town councils are examples of institutions that have a mace. " +

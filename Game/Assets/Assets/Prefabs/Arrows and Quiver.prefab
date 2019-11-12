@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 552791902600086825}
   - component: {fileID: 552791902600086824}
-  - component: {fileID: 552791902600086827}
+  - component: {fileID: 6701865801340125923}
   m_Layer: 0
   m_Name: Arrows and Quiver
   m_TagString: Untagged
@@ -80,19 +80,16 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &552791902600086827
-MonoBehaviour:
+--- !u!65 &6701865801340125923
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 552791902600086822}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
   m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0caef84a97f3bf14a8b865a1e2240da7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  info: 
-  InfoNo: 0
-  Count: 0
-  InfoText: {fileID: 0}
+  serializedVersion: 2
+  m_Size: {x: 0.86, y: 1.73, z: 0.2}
+  m_Center: {x: 0, y: 0, z: 0}

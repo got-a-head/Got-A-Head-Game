@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7607154489521142000}
   - component: {fileID: 7607154489521142001}
-  - component: {fileID: 7607154489521142002}
+  - component: {fileID: 6650267850858023092}
   m_Layer: 0
   m_Name: Shield of England
   m_TagString: Untagged
@@ -80,16 +80,16 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &7607154489521142002
-MonoBehaviour:
+--- !u!65 &6650267850858023092
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7607154489521142007}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
   m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4456a878ac5425f4d893aae074180f44, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  InfoText: {fileID: 0}
+  serializedVersion: 2
+  m_Size: {x: 4.1, y: 4.78, z: 0.2}
+  m_Center: {x: 0, y: 0, z: 0}

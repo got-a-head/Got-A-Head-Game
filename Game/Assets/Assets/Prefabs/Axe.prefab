@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7943663224250883513}
   - component: {fileID: 7943663224250883512}
-  - component: {fileID: 7943663224250883519}
+  - component: {fileID: 4764682912580212168}
   m_Layer: 0
   m_Name: Axe
   m_TagString: Untagged
@@ -80,16 +80,16 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &7943663224250883519
-MonoBehaviour:
+--- !u!65 &4764682912580212168
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7943663224250883514}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
   m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b9e4d36666d7c134dbc2088b09dc0f34, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  InfoText: {fileID: 0}
+  serializedVersion: 2
+  m_Size: {x: 4.06, y: 12.65, z: 0.2}
+  m_Center: {x: 0, y: 0, z: 0}

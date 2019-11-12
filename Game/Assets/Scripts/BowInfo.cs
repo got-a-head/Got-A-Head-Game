@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class BowInfo : MonoBehaviour
 {
-    public Text InfoText;
+    public Text InfoTextB;
 
     // Start is called before the first frame update
     void Start()
@@ -24,8 +24,8 @@ public class BowInfo : MonoBehaviour
         //Left Click
         if (Input.GetMouseButtonDown(0))
         {
-            InfoText = GameObject.Find("TextBox").GetComponent<Text>();
-            InfoText.text = ("There are different types of bows, depending on when they were made and where.\n " +
+            InfoTextB = GameObject.Find("TextBox").GetComponent<Text>();
+            InfoTextB.text = ("There are different types of bows, depending on when they were made and where.\n " +
                 "Longbow – a tall bow that is roughly the size of the archer using it.The English Longbow was used in Mediaeval times to great success.\n" +
                 "Crossbow – the earliest crossbows were used in ancient China \n" +
                 "Compound bow – Mongol warriors");

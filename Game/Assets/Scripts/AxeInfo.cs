@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class AxeInfo : MonoBehaviour
 {
-    public Text InfoText;
+    public Text InfoTextAx;
 
     // Start is called before the first frame update
     void Start()
@@ -24,8 +24,8 @@ public class AxeInfo : MonoBehaviour
         //Left Click
         if (Input.GetMouseButtonDown(0))
         {
-            InfoText = GameObject.Find("TextBox").GetComponent<Text>();
-            InfoText.text = ("Parts of the axe \nThe eye \nThe blade or cutting edge \n" +
+            InfoTextAx = GameObject.Find("TextBox").GetComponent<Text>();
+            InfoTextAx.text = ("Parts of the axe \nThe eye \nThe blade or cutting edge \n" +
                 "Axeblade or bit\n" +
                 "This lip or lug is a way of securing the axe head to the handle\n" +
                 "Handle\n" +

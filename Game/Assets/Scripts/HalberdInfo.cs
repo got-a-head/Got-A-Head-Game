@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class HalberdInfo : MonoBehaviour
 {
-    public Text InfoText;
+    public Text InfoTextH;
     
     // Start is called before the first frame update
     void Start()
@@ -24,8 +24,8 @@ public class HalberdInfo : MonoBehaviour
 
         if (Input.GetMouseButtonDown(0))
         {
-            InfoText = GameObject.Find("TextBox").GetComponent<Text>();
-            InfoText.text = ("This weapon is known as a halberd. It is a two-handed weapon that was used in the 14th and 15th centuries and is a combination of a spear and a battle axe.");
+            InfoTextH = GameObject.Find("TextBox").GetComponent<Text>();
+            InfoTextH.text = ("This weapon is known as a halberd. It is a two-handed weapon that was used in the 14th and 15th centuries and is a combination of a spear and a battle axe.");
 
         }
     }

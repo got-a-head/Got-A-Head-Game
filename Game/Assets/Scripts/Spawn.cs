@@ -30,10 +30,10 @@ public class Spawn : MonoBehaviour
         Instantiate(Axe, new Vector3(22, 15, 5), Quaternion.identity);
         Instantiate(Mace, new Vector3(24, 15, 5), Quaternion.identity);
         Instantiate(Pike, new Vector3(32, 13, 5), Quaternion.identity);
-        Instantiate(Crossbow, new Vector3(34, 13, 5), Quaternion.identity);
-        Instantiate(Crossbow, new Vector3(37, 13, 5), Quaternion.identity);
         Instantiate(Arrows, new Vector3(34, 16, 5), Quaternion.identity);
         Instantiate(Arrows, new Vector3(37, 16, 5), Quaternion.identity);
+        Instantiate(Crossbow, new Vector3(34, 13, 5), Quaternion.identity);
+        Instantiate(Crossbow, new Vector3(37, 13, 5), Quaternion.identity);
     }
 
     // Update is called once per frame
