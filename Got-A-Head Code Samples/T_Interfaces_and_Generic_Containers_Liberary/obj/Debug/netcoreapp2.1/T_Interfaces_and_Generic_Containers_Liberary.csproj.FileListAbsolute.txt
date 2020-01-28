@@ -1,5 +1,4 @@
 C:\Users\USER\source\repos\Got-A-Head Code Samples\T_Interfaces_and_Generic_Containers_Liberary\obj\Debug\netcoreapp2.1\T_Interfaces_and_Generic_Containers_Liberary.csprojAssemblyReference.cache
-C:\Users\USER\source\repos\Got-A-Head Code Samples\T_Interfaces_and_Generic_Containers_Liberary\obj\Debug\netcoreapp2.1\T_Interfaces_and_Generic_Containers_Liberary.csproj.CoreCompileInputs.cache
 C:\Users\USER\source\repos\Got-A-Head Code Samples\T_Interfaces_and_Generic_Containers_Liberary\obj\Debug\netcoreapp2.1\T_Interfaces_and_Generic_Containers_Liberary.AssemblyInfoInputs.cache
 C:\Users\USER\source\repos\Got-A-Head Code Samples\T_Interfaces_and_Generic_Containers_Liberary\obj\Debug\netcoreapp2.1\T_Interfaces_and_Generic_Containers_Liberary.AssemblyInfo.cs
 C:\Users\USER\source\repos\Got-A-Head Code Samples\T_Interfaces_and_Generic_Containers_Liberary\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
@@ -17,3 +16,5 @@ C:\Users\USER\source\repos\Got-A-Head Code Samples\T_Interfaces_and_Generic_Cont
 C:\Users\USER\source\repos\Got-A-Head Code Samples\T_Interfaces_and_Generic_Containers_Liberary\obj\Debug\netcoreapp2.1\T_Interfaces_and_Generic_Containers_Liberary.pdb
 C:\Users\USER\source\repos\Got-A-Head Code Samples\T_Interfaces_and_Generic_Containers_Liberary\bin\Debug\netcoreapp2.1\XUnitUtils.dll
 C:\Users\USER\source\repos\Got-A-Head Code Samples\T_Interfaces_and_Generic_Containers_Liberary\bin\Debug\netcoreapp2.1\XUnitUtils.pdb
+C:\Users\USER\source\repos\Got-A-Head Code Samples\T_Interfaces_and_Generic_Containers_Liberary\bin\Debug\netcoreapp2.1\ArmouryObjects.dll
+C:\Users\USER\source\repos\Got-A-Head Code Samples\T_Interfaces_and_Generic_Containers_Liberary\bin\Debug\netcoreapp2.1\ArmouryObjects.pdb

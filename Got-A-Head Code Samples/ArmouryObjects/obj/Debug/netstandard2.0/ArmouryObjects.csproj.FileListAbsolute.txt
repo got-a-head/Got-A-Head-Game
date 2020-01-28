@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\Got-A-Head Code Samples\ArmouryObjects\bin\Debug\netstandard2.0\ArmouryObjects.deps.json
+C:\Users\USER\source\repos\Got-A-Head Code Samples\ArmouryObjects\bin\Debug\netstandard2.0\ArmouryObjects.dll
+C:\Users\USER\source\repos\Got-A-Head Code Samples\ArmouryObjects\bin\Debug\netstandard2.0\ArmouryObjects.pdb
+C:\Users\USER\source\repos\Got-A-Head Code Samples\ArmouryObjects\obj\Debug\netstandard2.0\ArmouryObjects.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Got-A-Head Code Samples\ArmouryObjects\obj\Debug\netstandard2.0\ArmouryObjects.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Got-A-Head Code Samples\ArmouryObjects\obj\Debug\netstandard2.0\ArmouryObjects.AssemblyInfo.cs
+C:\Users\USER\source\repos\Got-A-Head Code Samples\ArmouryObjects\obj\Debug\netstandard2.0\ArmouryObjects.dll
+C:\Users\USER\source\repos\Got-A-Head Code Samples\ArmouryObjects\obj\Debug\netstandard2.0\ArmouryObjects.pdb

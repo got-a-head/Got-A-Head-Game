@@ -2,7 +2,6 @@ C:\Users\USER\source\repos\Got-A-Head Code Samples\XUnitUtils\bin\Debug\netstand
 C:\Users\USER\source\repos\Got-A-Head Code Samples\XUnitUtils\bin\Debug\netstandard2.0\XUnitUtils.dll
 C:\Users\USER\source\repos\Got-A-Head Code Samples\XUnitUtils\bin\Debug\netstandard2.0\XUnitUtils.pdb
 C:\Users\USER\source\repos\Got-A-Head Code Samples\XUnitUtils\obj\Debug\netstandard2.0\XUnitUtils.csprojAssemblyReference.cache
-C:\Users\USER\source\repos\Got-A-Head Code Samples\XUnitUtils\obj\Debug\netstandard2.0\XUnitUtils.csproj.CoreCompileInputs.cache
 C:\Users\USER\source\repos\Got-A-Head Code Samples\XUnitUtils\obj\Debug\netstandard2.0\XUnitUtils.AssemblyInfoInputs.cache
 C:\Users\USER\source\repos\Got-A-Head Code Samples\XUnitUtils\obj\Debug\netstandard2.0\XUnitUtils.AssemblyInfo.cs
 C:\Users\USER\source\repos\Got-A-Head Code Samples\XUnitUtils\obj\Debug\netstandard2.0\XUnitUtils.dll

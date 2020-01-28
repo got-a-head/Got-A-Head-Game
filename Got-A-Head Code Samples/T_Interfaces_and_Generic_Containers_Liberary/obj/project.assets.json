@@ -1674,6 +1674,16 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
+      "ArmouryObjects/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ArmouryObjects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArmouryObjects.dll": {}
+        }
+      },
       "Interfaces_and_Generic_Containers_Library/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -5858,6 +5868,11 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
+    "ArmouryObjects/1.0.0": {
+      "type": "project",
+      "path": "../ArmouryObjects/ArmouryObjects.csproj",
+      "msbuildProject": "../ArmouryObjects/ArmouryObjects.csproj"
+    },
     "Interfaces_and_Generic_Containers_Library/1.0.0": {
       "type": "project",
       "path": "../Interfaces_and_Generic_Containers_Library/Interfaces_and_Generic_Containers_Library.csproj",
@@ -5871,6 +5886,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "ArmouryObjects >= 1.0.0",
       "Interfaces_and_Generic_Containers_Library >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.1.0",
@@ -5912,6 +5928,9 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
+            "C:\\Users\\USER\\source\\repos\\Got-A-Head Code Samples\\ArmouryObjects\\ArmouryObjects.csproj": {
+              "projectPath": "C:\\Users\\USER\\source\\repos\\Got-A-Head Code Samples\\ArmouryObjects\\ArmouryObjects.csproj"
+            },
             "C:\\Users\\USER\\source\\repos\\Got-A-Head Code Samples\\Interfaces_and_Generic_Containers_Library\\Interfaces_and_Generic_Containers_Library.csproj": {
               "projectPath": "C:\\Users\\USER\\source\\repos\\Got-A-Head Code Samples\\Interfaces_and_Generic_Containers_Library\\Interfaces_and_Generic_Containers_Library.csproj"
             },
@@ -5935,6 +5954,7 @@
             "version": "[15.9.0, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
@@ -5949,10 +5969,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

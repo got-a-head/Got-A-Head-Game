@@ -5,6 +5,7 @@ using System.Text;
 namespace T_Interfaces_and_Generic_Containers_Liberary
 {
     /// <summary>
+    /// I started off by using <a href="https://xunit.net/docs/getting-started/netfx/visual-studio">this</a> web page to start generating my xUnit tests
     /// This project caused much angst and pain before I got it working.
     /// It was created by creating a new directory and then creating the proejct using the VS 2019 command line tool, moving to the folder
     /// and then using the command "dotnet new xunit".  This created a new project that I added into the solution as an existing project.

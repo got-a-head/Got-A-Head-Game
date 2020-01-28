@@ -17,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ArmouryObjects\ArmouryObjects.csproj" />
     <ProjectReference Include="..\Interfaces_and_Generic_Containers_Library\Interfaces_and_Generic_Containers_Library.csproj" />
     <ProjectReference Include="..\XUnitUtils\XUnitUtils.csproj" />
   </ItemGroup>

@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\Got-A-Head Code Samples\Delegate_And_Generic_Func_Library\bin\Debug\netstandard2.0\Delegate_And_Generic_Func_Library.deps.json
+C:\Users\USER\source\repos\Got-A-Head Code Samples\Delegate_And_Generic_Func_Library\bin\Debug\netstandard2.0\Delegate_And_Generic_Func_Library.dll
+C:\Users\USER\source\repos\Got-A-Head Code Samples\Delegate_And_Generic_Func_Library\bin\Debug\netstandard2.0\Delegate_And_Generic_Func_Library.pdb
+C:\Users\USER\source\repos\Got-A-Head Code Samples\Delegate_And_Generic_Func_Library\obj\Debug\netstandard2.0\Delegate_And_Generic_Func_Library.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Got-A-Head Code Samples\Delegate_And_Generic_Func_Library\obj\Debug\netstandard2.0\Delegate_And_Generic_Func_Library.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Got-A-Head Code Samples\Delegate_And_Generic_Func_Library\obj\Debug\netstandard2.0\Delegate_And_Generic_Func_Library.AssemblyInfo.cs
+C:\Users\USER\source\repos\Got-A-Head Code Samples\Delegate_And_Generic_Func_Library\obj\Debug\netstandard2.0\Delegate_And_Generic_Func_Library.dll
+C:\Users\USER\source\repos\Got-A-Head Code Samples\Delegate_And_Generic_Func_Library\obj\Debug\netstandard2.0\Delegate_And_Generic_Func_Library.pdb
